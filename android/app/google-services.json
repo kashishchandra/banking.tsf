@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506919999317",
+    "project_id": "banking-app-cacf4",
+    "storage_bucket": "banking-app-cacf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506919999317:android:29b41882a12cf8bee401dc",
+        "android_client_info": {
+          "package_name": "amanshrivastava.bankingflutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506919999317-na5htdb92le0gbtg80n60dosjmbst31i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALG8hghpRvcczLOwWSGZ85zqHhQsSiwwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506919999317-na5htdb92le0gbtg80n60dosjmbst31i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
